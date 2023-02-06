@@ -6,4 +6,8 @@ echo "
 <p>Repository netwerken!</p>
 </html>
 ";
+
+for($i = 5; $i <100; i++){
+  echo $i;
+}
 ?>
