@@ -1,6 +1,6 @@
 <?php
 echo "
-html>
+<html>
 <h1>Hello world!</h1>
 <br>
 <p>Repository netwerken!</p>
